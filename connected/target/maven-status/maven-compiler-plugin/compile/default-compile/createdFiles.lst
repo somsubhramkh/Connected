@@ -1,0 +1,8 @@
+connected\service\UserService.class
+connected\controller\HomeController.class
+connected\dao\ConcernDAO.class
+connected\service\ConcernService.class
+connected\model\User.class
+connected\dao\UserDAO.class
+connected\service\EmailService.class
+connected\model\Concern.class
